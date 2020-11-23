@@ -8,7 +8,7 @@ Those are :-
 3.	Unawareness of  water consumption by the family.
 
 Therefore, To overcome these issues. We are going to introduce 
-#sH2O, A Smart Arduino based device that has a solution to above problems and lot more additional features. 
+sH2O, A Smart Arduino based device that has a solution to above problems and lot more additional features. 
 
 In Addition to that, Smartphone can be used for Control and monitoring.
 RTC Module – used to record every motor on action with Date and Time.
